@@ -1,0 +1,3 @@
+# modelreuse
+The pre-trained models publised in model repositories
+We firstly conduct an empirical study to comprehensively explore the intended usage context of pre-trained models in model repositories. Specifically, inspired by the code reuse wisdom in software engineering, we envision such information described in the model card, FactSheet, and model repositories to draw out our pre/post-conditions; and conduct an exploratory study of 1908 pre-trained models on six model repositories (i.e., the Tensorflow Hub, Pytorch Hub, Model Zoo, Wolfram neural net repository, Nvidia, and Hugging Face) to investigate the gap between documentation guidance and actual specification.
